@@ -61,7 +61,7 @@ CREATE TABLE FACILITY_LOCATION (
     FACILITY_ADDRESS varchar2(255)  NOT NULL,
     ZIP_CODE varchar2(10)  NULL,
     LATITUDE number(9,6)  NOT NULL,
-    LONGTITUDE number(9,6)  NOT NULL,
+    LONGITUDE number(9,6)  NOT NULL,
     MUNICIPALITY_ID integer  NOT NULL,
     CITY_ID integer  NOT NULL,
     COUNTY_ID integer  NOT NULL,
