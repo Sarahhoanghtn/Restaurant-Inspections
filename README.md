@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of **INFO 210: Database Management Systems** class at Drexel University and focuses on transforming a raw, unstructured dataset into a well-designed relational database. The work demonstrates end-to-end database development, including data cleaning, normalization, schema design using Vertabelo, and implementation in Oracle SQL.
+This project was developed as part of **INFO 210: Database Management Systems** class at Drexel University and focuses on transforming a raw, unstructured dataset into a well-designed relational database. The work demonstrates end-to-end database development, including data cleaning, normalization, schema design using Redgate Data Modeler, and implementation in Oracle SQL Developer.
 
 The project emphasizes applying core database concepts such as *functional dependencies and normalization to reduce redundancy and improve data integrity*. It also involves *designing an efficient relational schema and building SQL-based data ingestion processes* to migrate and organize the data. Overall, this project showcases practical skills in **data modeling, database design, and structured data management**.
 
